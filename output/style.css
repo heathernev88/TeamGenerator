@@ -1,0 +1,26 @@
+body {
+    background-image: url("triangle-mosaic.png");
+   }
+
+.team-heading {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(77,107,180,1) 29%, rgba(121,140,222,1) 66%, rgba(190,193,223,1) 90%);
+}
+.text-center {
+    font-size: 100px;
+    color: black;
+}
+.manager {
+    background: #193e95;
+    color: white;
+}
+
+.engineer {
+    background-color: #798cde;
+
+}
+
+.intern {
+    background-color: #bec1df;
+}
+
